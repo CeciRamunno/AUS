@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1684278674 source:c:\users\mramunno\desktop\progii\practica\arboles binarios\aus\progii\arbolbinario\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbolbinario.h"
+
+1684237285 c:\users\mramunno\desktop\progii\practica\arboles binarios\aus\progii\arbolbinario\arbolbinario.h
+
