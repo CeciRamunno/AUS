@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1686620813 source:c:\users\mramunno\desktop\progii\practica\aus\progii\atun\atun\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"atun.h"
+
+1686613384 c:\users\mramunno\desktop\progii\practica\aus\progii\atun\atun\atun.h
+
